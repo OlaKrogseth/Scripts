@@ -10,3 +10,5 @@
 # Data plotting scripts
 
 Some of the more comprehensive scripts are well documented. However, other scripts are not documented at all, depending the simplicity of the script.
+
+A zipfile containing animations made in blender is also made available.
